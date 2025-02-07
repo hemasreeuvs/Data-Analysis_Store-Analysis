@@ -13,7 +13,11 @@
 
 **Functions we foscused on**
 If
+
 IfElse
+
 Vllokup
-Text to extarct month from tehe date
+
+Text to extarct month from the date
+
 Replace
