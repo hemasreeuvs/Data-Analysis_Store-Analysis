@@ -12,11 +12,12 @@
 8. High selling category?
 
 **Functions we foscused on**
-If
 
-IfElse
+IF
 
-Vllokup
+IFELSE
+
+VLOOKUP
 
 Text to extarct month from the date
 
