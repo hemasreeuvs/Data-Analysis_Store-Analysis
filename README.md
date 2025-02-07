@@ -17,7 +17,7 @@ Store wants to create an annual sales report for 2022. So that the store can und
 7. which channel is contributing to maximum sales?
 8. High selling category?
 
-**Functions we foscused on**
+**Functions foscused on**
 
 IF
 
